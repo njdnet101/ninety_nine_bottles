@@ -1,0 +1,13 @@
+*.idea
+*.pyc
+*.zip
+dist
+build
+*.egg-info
+.eggs
+.coverage
+coverage.xml
+env
+*.log
+*.gz
+tmp
