@@ -1,4 +1,4 @@
-from ninety_nine_bottles.bottles import Bottles
+from bottles import Bottles
 
 
 def test_a_verse():
